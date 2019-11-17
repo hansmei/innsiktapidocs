@@ -1,7 +1,8 @@
 
 apiTitle: VA Visjon
-splitSpec: false
+splitSpec: true
 codeSamples: true
 swaggerUI: true
-travis: false
+travis: true
+repo: hansmei/innsiktapidocs
 oasVersion: 3.0.0
